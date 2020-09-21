@@ -1,2 +1,2 @@
 # Digital-Clock
-## Click Here
+##[Click Here]( https://sakshamalik.github.io/Digital-Clock/.)
